@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("test Repo in github")
+        print("Swift learning")
         
     }
 
