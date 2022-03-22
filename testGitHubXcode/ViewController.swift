@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         print("test Repo in github")
-        
+        view.backgroundColor = UIColor.blue
         
     }
 
